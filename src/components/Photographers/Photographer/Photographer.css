@@ -1,0 +1,8 @@
+.chosen{
+    padding:10px;
+}
+
+.chosen:hover{
+    background-color: #20B2AA;
+    color: #fff;
+}
